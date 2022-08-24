@@ -1,0 +1,37 @@
+body{
+    background-color: coral;
+}
+/* input{
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    text-align: center;
+} */
+input{
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    text-align: center;
+}
+.container{
+    background-color: darksalmon;
+    padding: 20px;
+     width: 500px;
+     margin-left: 300px;
+     margin-top: 200px;
+}
+#submit{
+    width: 150px;
+    padding-top: 10px;
+    border-radius: 5px;
+    background-color: coral;
+    /* float: left; */
+    left: 200px;
+    
+}
+a{
+    text-decoration: none;
+    text-decoration-style: none;
+    color: gold;
+    text-align: center;
+}
